@@ -1,1 +1,1 @@
-My test plugi
+My test plugin
